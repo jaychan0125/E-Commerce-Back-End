@@ -12,7 +12,7 @@ This week I was tasked with building the backend of an e-commerce site utilizing
 - [License](#license)
 
 ## Deployment
-- [E-Commerce Backend Video Walkthrough]()
+- [E-Commerce Backend Video Walkthrough](https://drive.google.com/file/d/1JQP10rXxfChDz3crFGI8qpVFP_ZMMG-R/view)
 - [GitHub Repository](https://github.com/jaychan0125/E-Commerce-Back-End)
 
 ## Installation

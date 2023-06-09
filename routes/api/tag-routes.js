@@ -34,7 +34,6 @@ router.get('/:id', async (req, res) => {
   }
 });
 
-// HOW DO I ATTACH PRODUCTS TO IT?!
 // create a new tag
 router.post('/', async (req, res) => {
   /* req.body should look like this...
